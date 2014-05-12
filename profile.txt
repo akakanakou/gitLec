@@ -5,3 +5,5 @@ weight:57
 home:ryo
 school:TUT
 college:CS
+country:japan
+

@@ -4,3 +4,4 @@ height:165
 weight:57
 home:ryo
 school:TUT
+country:japan

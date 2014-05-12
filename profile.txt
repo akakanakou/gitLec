@@ -3,3 +3,4 @@ age:20
 height:165
 weight:57
 home:ryo
+school:TUT

@@ -1,4 +1,4 @@
-name:Kosuke Shimada
+name:KS
 age:20
 height:165
 weight:57
